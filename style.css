@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background: #f9f9f9;
+}
+
+h1 {
+  color: #333;
+}
+
+.cars-table {
+  border-collapse: collapse;
+  width: 90%;
+  margin-top: 20px;
+}
+
+.cars-table th, .cars-table td {
+  border: 1px solid #999;
+  padding: 8px;
+  text-align: left;
+}
+
+.cars-table th {
+  background: #eee;
+}
